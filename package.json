@@ -1,0 +1,14 @@
+{
+  "name": "cache-cycle",
+  "version": "1.0.0",
+  "description": "Caching cycle for generic use-cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "Mustafa Çolakoğlu",
+  "license": "ISC"
+}
