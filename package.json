@@ -1,5 +1,5 @@
 {
-	"name": "cache-cycle",
+	"name": "manage-your-cache",
 	"version": "1.0.0",
 	"description": "Caching cycle for generic use-cases",
 	"main": "dist/src/index.js",
