@@ -1,12 +1,5 @@
 import Model from './Model';
+import Cacher from './Cacher';
+import Cachers from './Cachers/index';
 
-class ManageYourCache {
-	models: Model[] = [];
-	addModel(model: Model) {
-		this.models.push(model);
-	}
-	addModels(models: Model[]) {
-		this.models = [...this.models, ...models];
-	}
-}
-export default ManageYourCache;
+export { Model, Cacher, Cachers };
