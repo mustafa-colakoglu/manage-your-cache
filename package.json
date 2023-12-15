@@ -1,12 +1,12 @@
 {
 	"name": "manage-your-cache",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Caching cycle for generic use-cases",
 	"main": "dist/src/index.js",
 	"scripts": {
 		"build": "tsc --project tsconfig.json",
 		"test": "jest",
-		"publish": "npm run build && npm publish"
+		"publish-to-npm": "npm run build && npm publish"
 	},
 	"keywords": [
 		"cache"
