@@ -1,6 +1,6 @@
 {
 	"name": "manage-your-cache",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Caching cycle for generic use-cases",
 	"main": "dist/src/index.js",
 	"scripts": {
